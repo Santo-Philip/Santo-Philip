@@ -1,1 +1,1 @@
-# me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&duration=3000&pause=100&color=08D6F7&background=FFFFFF00&center=true&vCenter=true&width=420&lines=Hi%2C;Full+stack+python+;And+flutter+developer;Intermediate+in+coding...;+Fell+in+love+with+programming)](https://git.io/typing-svg)
