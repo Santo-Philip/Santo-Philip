@@ -2,7 +2,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Santo-philip&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santo-Philip&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santo-Philip&hide=TeX&layout=compact)
 ---
 ----
 [![trophy](https://github-profile-trophy.vercel.app/?username=Santo-Philip&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
