@@ -7,3 +7,7 @@
 ----
 [![trophy](https://github-profile-trophy.vercel.app/?username=Santo-Philip&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ----
+
+<a href="https://github.com/tomondre"><img src="contributions.svg"></a>
+
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=Santo-Philip.Santo-Philip" />
