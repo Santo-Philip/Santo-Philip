@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&vCenter=true&width=435&lines=Hi%2C;Familiar+with+full+stack+Django%2C+flask;Good+at+python+css+javascript+telegram+bots;Flutter+dev;React+%2CNextjs+%2CNode+js+dev;Full+stack+web+and+native+app+dev;Learning.....)](https://git.io/typing-svg)
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Santo-Philip/Santo-Philip/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="assets/208593.gif">
 
 ---
 ### Languages
