@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&duration=3000&pause=100&color=08D6F7&background=FFFFFF00&center=true&vCenter=true&width=420&lines=Hi%2C;Full+stack+python+;And+flutter+developer;Intermediate+in+coding...;+Fell+in+love+with+programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&vCenter=true&width=435&lines=Hi%2C;Familiar+with+full+stack+Django%2C+flask;Good+at+python+css+javascript+telegram+bots;Flutter+dev;React+%2CNextjs+%2CNode+js+dev;Full+stack+web+and+native+app+dev;Learning.....)](https://git.io/typing-svg)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Santo-philip&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 ---
