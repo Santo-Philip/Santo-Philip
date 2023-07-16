@@ -9,5 +9,3 @@
 ----
 
 <a href="https://github.com/Santo-Philip"><img src="https://raw.githubusercontent.com/tondrejk/tondrejk/main/contributions.svg"></a>
-
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=Santo-Philip.Santo-Philip" />
