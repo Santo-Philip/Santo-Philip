@@ -7,5 +7,3 @@
 ----
 [![trophy](https://github-profile-trophy.vercel.app/?username=Santo-Philip&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ----
-
-<a href="https://github.com/Santo-Philip"><img src="https://raw.githubusercontent.com/tondrejk/tondrejk/main/contributions.svg"></a>
