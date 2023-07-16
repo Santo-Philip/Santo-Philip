@@ -45,3 +45,7 @@
 ----
 [![trophy](https://github-profile-trophy.vercel.app/?username=Santo-Philip&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ----
+
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/Santo-Philip/count.svg" />
