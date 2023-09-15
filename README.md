@@ -1,7 +1,9 @@
 ## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 I'm Sando Philip,an :iphone: App & 🌐 Web Developer from India who is passionate about technologies and innovation
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&vCenter=true&width=435&lines=Hi%2C;Familiar+with+full+stack+Django%2C+flask;Good+at+python+css+javascript+telegram+bots;Flutter+dev;React+%2CNextjs+%2CNode+js+dev;Full+stack+web+and+native+app+dev;Learning.....)](https://git.io/typing-svg)
 
