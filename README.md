@@ -51,6 +51,6 @@ I'm Sando Philip,an :iphone: App & 🌐 Web Developer from India who is passiona
 
 <div align="center">
     <a href="#GithubStat"><img src="https://github-widgetbox.vercel.app/api/profile?username=santo-philip&data=followers,repositories,stars,commits&theme=rgb" align="center" ></a><br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Santo-Philip&theme=midnight-purple&border_radius=50&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_border=true&card_width=800" alt="GitHub Streak" /></a>
+<a href="#"><img src="https://streak-stats.demolab.com?user=Santo-Philip&theme=midnight-purple&border_radius=50&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_border=true&card_width=800" alt="GitHub Streak" /></a>
 </div>
 
