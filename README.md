@@ -1,5 +1,5 @@
 <div align="center"> 
-  <a href="#Header"><img src="#StreakStat"><img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Santo's%20Stats" alt="Header" /></a>
+  <a href="#Header"><img src="#StreakStat"><img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=My%20Stats" alt="Header" /></a>
 </div>
 
 ## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
