@@ -1,3 +1,7 @@
+<div align="center"> 
+  <a href="#Header"><img src="#StreakStat"><img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Santo's%20Stats" alt="Header" /></a>
+</div>
+
 ## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -45,20 +49,8 @@ I'm Sando Philip,an :iphone: App & 🌐 Web Developer from India who is passiona
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Santo-philip&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+<div align="center">
+    <a href="#GithubStat"><img src="https://github-widgetbox.vercel.app/api/profile?username=santo-philip&data=followers,repositories,stars,commits&theme=rgb" align="center" ></a><br>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Santo-Philip&theme=midnight-purple&border_radius=50&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_border=true&card_width=800" alt="GitHub Streak" /></a>
+</div>
 
-
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/Santo-Philip?template=classic&base.header=0&gists=1&lines=1&config.timezone=kolkata%2FToronto)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santo-Philip&hide=TeX&layout=compact)
-
-
-----
-[![trophy](https://github-profile-trophy.vercel.app/?username=Santo-Philip&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-----
-
-
-### Visitor count
-<img src="https://profile-counter.glitch.me/Santo-Philip/count.svg" />
